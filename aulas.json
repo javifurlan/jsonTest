@@ -1,11 +1,60 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
+  "fields": [
+    "Dia",
+    "Materia",
+    "Catedra",
+    "Aula",
+    "Hora"
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "clases": [
+    [
+      "Lunes",
+      "Actualización Psicológica II",
+      "A",
+      402,
+      "09:10"
+    ],
+    [
+      "Lunes",
+      "Psicopatología III",
+      "A",
+      502,
+      "09:10"
+    ],
+    [
+      "Lunes",
+      "Técnicas e Instrumentos de Exploración I",
+      "3",
+      602,
+      "09:10"
+    ],
+    [
+      "Lunes",
+      "Técnicas e Instrumentos de Exploración II",
+      "2",
+      602,
+      "12:20"
+    ],
+    [
+      "Miercoles",
+      "Herramientas Matemáticas III",
+      "A",
+      503,
+      "13:10"
+    ],
+    [
+      "Lunes",
+      "Logística",
+      "A",
+      502,
+      "13:45"
+    ],
+    [
+      "Martes",
+      "Derecho Empresario",
+      "B",
+      604,
+      "16:45"
+    ]
+  ]
 }
